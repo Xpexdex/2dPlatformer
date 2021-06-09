@@ -1,0 +1,13 @@
+var x;
+var y;
+var velocityX;
+var velocityY;
+var scrollX;
+var scrollY;
+var distance;
+var dx;
+var dy;
+var slope;
+var falling;
+var player1;
+var player2
